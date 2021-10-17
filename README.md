@@ -42,16 +42,17 @@ NESTA, UK
 # Main questions we look into
 - Does the private sector "harvest" the best performing AI researchers? i.e. which attributes contribute to transitions.
 - After transitioning into industry, does their (publicly available) output decline?
+
 We speculate about:
 - What does that mean for public interest, ethics, fairness and safety in emerging AI technologies?
 
 ---
 
-![bg right 70%](https://pbs.twimg.com/profile_images/1542707565/image_400x400.jpg)
+![bg right 60%](https://upload.wikimedia.org/wikipedia/commons/6/6d/Timnit_Gebru_crop.jpg)
 
 #### **[#ISupportTimnit](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382)**
 
-- Renowned AI researcher Timnit Gebru dismissed from Google Brain (Ethics co-lead) in December 2020
+- AI researcher Timnit Gebru dismissed from Google Brain (Ethics co-lead) in Dec. 2020
 - Disagreement with management over conference paper
 - Margaret Mitchell terminated in Feb. 2021
 
@@ -69,7 +70,6 @@ We speculate about:
 -->
 
 ### Some more background:
-- AI research is booming
 - Growing private sector participation in AI research:
     - Google had in 2019 the highest number of accepted papers at NeurIPS
     - Standard frameworks went from being developed in academia (Theano & Caffe) to industry (Tensorflow & PyTorch)
@@ -128,14 +128,14 @@ We speculate about:
 ---
 ![bg](#123)
 ![](#fff)
-### <!--fit--> Some EDA first 📊
+### <!--fit--> Some descriptives first 📊
 
 ---
 
-![bg](https://raw.githack.com/nestauk/ai_research/dev/reports/pres_strassb/media/f1_fos_trends.png)
+<!-- ![bg](https://raw.githack.com/nestauk/ai_research/dev/reports/pres_strassb/media/f1_fos_trends.png)
 
 
----
+--- -->
 
 ![bg 90%](https://raw.githack.com/nestauk/ai_research/dev/reports/pres_strassb/media/f2_part_trend.png)
 
@@ -212,7 +212,7 @@ We speculate about:
 ---
 
 
-
+<!-- 
 ![bg](#123)
 ![](#fff)
 
@@ -222,21 +222,14 @@ We speculate about:
 - What does that mean for public interest, ethics, fairness and safety in emerging AI technologies? **Public research needs to remain attractive for star- AI-researchers** 🧐
 
 
----
+--- -->
 
-## Next steps for this paper
-- Solidify framework
-- More detailed analysis of the transition outcomes: 
-    - diversity and novely ouf output
-    - collaboration patterns
-- From knowledge diffusion back to knowledge production?
 
----
 
 ## Now what - policy implication
 
 - There is nothing wrong with impactful industry AI labs
-- Better coordination and funding of public mission-oriented AI research
+- Better coordination and funding of public mission-oriented AI research!
 - Development and enforcement of guidelines / certification of AI
 - What do industrial AI ethics units do? Mapping/evaluation? "Alignment"
 - Where do commercial interest clash with public objectives?
@@ -249,12 +242,19 @@ We speculate about:
 
 - Ahmed, N. and Wahed, M. (2020). The de-democratization of ai: Deep learning and the compute divide in artificial intelligence research.
 
-- 
-
 ---
 
 
 # Backup - slides
+---
+
+## Next steps for this paper
+- Solidify framework
+- More detailed analysis of the transition outcomes: 
+    - diversity and novely ouf output
+    - collaboration patterns
+- From knowledge diffusion back to knowledge production?
+
 ---
 
 ![bg 95%](https://raw.githack.com/nestauk/ai_research/dev/reports/pres_strassb/media/f3_fos_evol.png)
