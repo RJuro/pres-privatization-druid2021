@@ -40,12 +40,12 @@ NESTA, UK
 ![](#fff)
 
 # Main questions we look into
-- Does the private sector "harvest" the best performing AI researchers?
+- Does the private sector "harvest" the best performing AI researchers? i.e. which attributes contribute to transitions.
 - After transitioning into industry, does their (publicly available) output decline?
+We speculate about:
 - What does that mean for public interest, ethics, fairness and safety in emerging AI technologies?
 
 ---
-
 
 ![bg right 70%](https://pbs.twimg.com/profile_images/1542707565/image_400x400.jpg)
 
@@ -53,9 +53,11 @@ NESTA, UK
 
 - Renowned AI researcher Timnit Gebru dismissed from Google Brain (Ethics co-lead) in December 2020
 - Disagreement with management over conference paper
+- Margaret Mitchell terminated in Feb. 2021
+
 
 ---
-
+<!-- 
 
 ![bg left 70%](https://upload.wikimedia.org/wikipedia/commons/6/6d/Timnit_Gebru_crop.jpg)
 
@@ -64,6 +66,8 @@ NESTA, UK
 - (Growing) Resource requirements for training as well as transparency
 
 ---
+-->
+
 ### Some more background:
 - AI research is booming
 - Growing private sector participation in AI research:
@@ -71,16 +75,18 @@ NESTA, UK
     - Standard frameworks went from being developed in academia (Theano & Caffe) to industry (Tensorflow & PyTorch)
     - Star researches leading industry AI labs
     - [stateof.ai report](https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/edit?usp=sharing)
+    - Reasons include access to data, infrastructure, easy integration of research
+
 ---
 
 
-- Modern AI techniques require large datasets available in industry
+<!-- - Modern AI techniques require large datasets available in industry
 - Potential disconnect between academic AI and industry needs forcing industry to take basic research "in their own hands"
 - Tight integration of AI systems and industrial cloud platforms exploiting synergies and increasing competitiveness
 - Culture allowing academic publication helps attracting scholars and running "blue-skies" research
 - Ability to internalize externalities
 
----
+--- -->
 
 ### Potential risks of AI privatization
 
@@ -95,12 +101,12 @@ NESTA, UK
 #### Possible transition mechanisms
 
 
-- Researcher-push
-- Technology-push
-- Industry-pull
+- Researcher-push (Roach and Sauermann, 2010)
+- Technology-push (Ahmed and Wahed, 2020)
+- Industry-pull 
 --- 
 
-![bg](#123)
+<!-- ![bg](#123)
 ![](#fff)
 ### Private vs public AI development?
 - Private AI labs play an increasingly important role
@@ -111,7 +117,7 @@ NESTA, UK
 
 #### Argument for bolstering public AI research 
 
----
+--- -->
 ### What we do in this paper
 - Study bibliographic data and reconstruct AI researcher careers (~83k researchers, active  2015-2020)
 - Provide descriptive analysis on researcher and output levels
@@ -236,6 +242,17 @@ NESTA, UK
 - Where do commercial interest clash with public objectives?
 
 ---
+
+# References
+
+- Roach, M. and Sauermann, H. (2010). A taste for science? phd scientists’ academic orientation and self-selection into research careers in industry. Research policy, 39(3):422–434.
+
+- Ahmed, N. and Wahed, M. (2020). The de-democratization of ai: Deep learning and the compute divide in artificial intelligence research.
+
+- 
+
+---
+
 
 # Backup - slides
 ---
