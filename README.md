@@ -185,7 +185,7 @@ We speculate about:
 ## Diff-in-diff exploring consequences
 
 - Aim: Identify impact of AI transition on research performance & knowledge dissemination
-- Modl: Diff-in-Diff regression (DV: Researcher's citation rank) 
+- Model: Diff-in-Diff regression (DV: Researcher's citation rank) 
 - Sample: PSM matched sample of university-industry with one university remaining researcher
 - Treatment: University Industry transition (of matched pair)
 
