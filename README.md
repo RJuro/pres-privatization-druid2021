@@ -7,6 +7,12 @@ paginate: true
 _paginate: false
 ---
 
+# Special Issue: I&I
+
+[Deadline 31. Oct.](
+https://think.taylorandfrancis.com/special_issues/challenging-fundamentals-innovation-dynamics-ai/)
+
+---
 
 ![bg](https://source.unsplash.com/glRqyWJgUeY)
 
